@@ -9,79 +9,90 @@ let bodyContents = {
     
     Alles gute was man tut, kommt irgendwann zu einem zurück.
         </span>
+        <div class="buttons">
         <button onclick=sendPage("page2") class="btn-weiter">
             Weiter
         </button>
+        </div>
     </div>
     `,
     page2: `    <div class="content">
-    <img src="page2.jpg">
+    <img src="sources/page2/page2.jpg">
     <span>
-        Ich bin immer heftig traurig gewesen weißt Du.
-        Auch wegen vielen anderen Sachen.
-        Geholfen hat mir, immer die Bindung zu Allah und zu Dir zu behalten. 
-        Ich habe gebetet und meine Stirn auf den Boden gelegt um Allah anzubeten.
-        In meinen Gedanken habe ich meinen Kopf an deinen Kopf gehalten und kurz alles vergessen.
+    Es gab viele negative Momente bei mir, aber ich habe gelernt, damit umzugehen. 
+    Das Beten und die Bindung zu Dir haben mir geholfen. 
+    Ich habe meine Stirn auf den Boden gelegt um Allah anzubeten.
+    In meinen Gedanken habe ich auch meinen Kopf an deinen Kopf gehalten und kurz alles vergessen.
     </span>
+    <div class="buttons">
     <button onclick=sendPage("page1") class="btn-zurueck">
     Zurück
 </button>
     <button onclick=sendPage("page3") class="btn-weiter">
         Weiter
     </button>
+    </div>
 </div>`,
     page3: `        <div class="content">
-    <img src="page3.jpg">
+    <img src="sources/page3/page3.jpg">
     <span>
         Schmerz ist nichts im Vergleich zu dem, wie es sich anfühlt aufzuhören obwohl man weitermachen will.
         Dieses Lächeln war mein Licht und der Grund warum es mir niemals zu schade war mir mühe zu geben. 
         Wenn ich einen schlechten Tag hatte, hab ich es mir immer angeschaut und mir ging es besser.
         Niemals könnte ich Dich einfach so aufgeben.
     </span>
+    <div class="buttons">
     <button onclick=sendPage("page2") class="btn-zurueck">
     Zurück
 </button>
     <button onclick=sendPage("page4") class="btn-weiter">
         Weiter
     </button>
+    </div>
 </div>`,
 
 
 
     page4: `    <div class="content">
-    <img src="page4.jpg">
+    <img src="sources/page4/page4.jpg">
     <span>
         Ich sah Dich nicht einfach als meine Freundin.
         Du warst direkt das Allerwichtigste und meine allerengste Familie.        
     </span>
+    <div class="buttons">
     <button onclick=sendPage("page3") class="btn-zurueck">
     Zurück
 </button>
     <button onclick=sendPage("page5") class="btn-weiter">
         Weiter
     </button>
+    </div>
 </div>
 
     `,
 
     page5: `<div class="content">
-    <img src="page5.jpg">
+    <img src="sources/page5/page5.jpg">
     <span>
     Die Zeit, als Du da warst, war an sich echt eine schwere Zeit, dennoch hast Du diese Zeit für mich zur allerbesten gemacht.    </span>
+    <div class="buttons">
     <button onclick=sendPage("page4") class="btn-zurueck">
     Zurück
 </button>
     <button onclick=sendPage("page6") class="btn-weiter">
         Weiter
     </button>
+    </div>
 </div>`,
 
     page6: `<div class="content page5">
     <div class="main-txt">
-        <img class="img-end" src="page6.jpg">
+        <img class="img-end" src="sources/page 6/page6.jpg">
+        <div class="buttons">
         <button onclick=sendPage("page5") class="btn-zurueck">
         Zurück
     </button>
+    </div>
     </div>
 </div>`
 }
