@@ -55,6 +55,13 @@ img {
     border-radius: 25px;
 }
 
+.buttons {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 .btn-zurueck {
     position: absolute;
     left: 10px;
@@ -70,7 +77,6 @@ img {
 }
 
 .btn-weiter {
-    position: absolute;
     right: 10px;
     bottom: 10px;
     width: 120px;
