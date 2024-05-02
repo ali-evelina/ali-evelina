@@ -17,7 +17,7 @@ let bodyContents = {
     </div>
     `,
     page2: `    <div class="content">
-    <img src="sources/page2/page2.jpg">
+    <img src="page2.jpg">
     <span>
     Es gab viele negative Momente bei mir, aber ich habe gelernt, damit umzugehen. 
     Das Beten und die Bindung zu Dir haben mir geholfen. 
@@ -34,7 +34,7 @@ let bodyContents = {
     </div>
 </div>`,
     page3: `        <div class="content">
-    <img src="sources/page3/page3.jpg">
+    <img src="page3.jpg">
     <span>
         Schmerz ist nichts im Vergleich zu dem, wie es sich anfühlt aufzuhören obwohl man weitermachen will.
         Dieses Lächeln war mein Licht und der Grund warum es mir niemals zu schade war mir mühe zu geben. 
@@ -54,7 +54,7 @@ let bodyContents = {
 
 
     page4: `    <div class="content">
-    <img src="sources/page4/page4.jpg">
+    <img src="page4.jpg">
     <span>
         Ich sah Dich nicht einfach als meine Freundin.
         Du warst direkt das Allerwichtigste und meine allerengste Familie.        
@@ -72,7 +72,7 @@ let bodyContents = {
     `,
 
     page5: `<div class="content">
-    <img src="sources/page5/page5.jpg">
+    <img src="page5.jpg">
     <span>
     Die Zeit, als Du da warst, war an sich echt eine schwere Zeit, dennoch hast Du diese Zeit für mich zur allerbesten gemacht.    </span>
     <div class="buttons">
