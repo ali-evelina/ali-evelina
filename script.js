@@ -109,15 +109,5 @@ function sendCode() {
 
 
 function sendPage(pageIndex) {
-    document.body.innerHTML = bodyContents[pageIndex];` <div class="main">
-    <img class="img-mond" src="img/page-1.jpg">
-    <div class="main-txt">
-        <span>
-            jndsfnsfnerjaisofnvso
-        </span>
-        <button class="btn-weiter" onclick="further()">
-            Weiter
-        </button>
-    </div>
-</div>`;
+    document.body.innerHTML = bodyContents[pageIndex];;
 }
