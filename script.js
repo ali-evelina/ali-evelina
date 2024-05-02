@@ -87,7 +87,7 @@ let bodyContents = {
 
     page6: `<div class="content page5">
     <div class="main-txt">
-        <img class="img-end" src="sources/page 6/page6.jpg">
+        <img class="img-end" src="page6.jpg">
         <div class="buttons">
         <button onclick=sendPage("page5") class="btn-zurueck">
         Zurück
