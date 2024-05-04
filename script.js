@@ -95,7 +95,7 @@ let bodyContents = {
 
     page6: `<div class="content page5">
     <div class="main-txt">
-        <img class="img-end" src="page7.jpg">
+        <img class="img-end1" src="page7.jpg">
         <div class="buttons">
         <button onclick=sendPage("page5") class="btn-zurueck">
         Weiter
@@ -106,9 +106,9 @@ let bodyContents = {
     </div>
     </div>
 </div>`,
-    page7: `<div class="content page5">
+    page7: `<div class="content page7">
     <div class="main-txt">
-        <img class="img-end" src="page6.jpg">
+        <img class="img-end2" src="page7.jpg">
         <div class="buttons">
         <button onclick=sendPage("page6") class="btn-zurueck">
         Zurück
