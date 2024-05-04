@@ -56,6 +56,7 @@ form {
 .img-end1, .img-end2 {
     width: 100%;
     margin-top: 20vh;
+    border-radius: 25px;
 }
 
 .buttons {
@@ -95,6 +96,10 @@ form {
         width: 80%;
         border-radius: 15px;
         margin: 0 auto 20px; /* Abstand oben und unten */
+    }
+
+    .img-end1, .img-end2 {
+        border-radius: 15px;
     }
 
     .content-main span {
@@ -142,6 +147,10 @@ form {
         margin-right: 20px; /* Abstand zwischen Bild und Text */
     }
 
+    .img-end1, .img-end2 {
+        border-radius: 15px;
+    }
+
     .content-main span {
         font-size: 33px; /* Textgröße erhöhen */
     }
@@ -178,6 +187,10 @@ form {
         width: 30%;
         border-radius: 15px;
         margin-right: 40px; /* Abstand zwischen Bild und Text */
+    }
+
+    .img-end1, .img-end2 {
+        border-radius: 15px;
     }
 
     .content-main span {
