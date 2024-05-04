@@ -95,13 +95,13 @@ let bodyContents = {
 
     page6: `<div class="content page5">
     <div class="main-txt">
-        <img class="img-end1" src="page7.jpg">
+        <img class="img-end1" src="page6.jpg">
         <div class="buttons">
         <button onclick=sendPage("page5") class="btn-zurueck">
-        Weiter
+        Zurück
     </button>
         <button onclick=sendPage("page7") class="btn-zurueck">
-        Zurück
+        Weiter
     </button>
     </div>
     </div>
