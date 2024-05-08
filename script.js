@@ -39,7 +39,6 @@ let bodyContents = {
     <div class="content-main">
     <img src="page3.jpg">
     <span>
-        Schmerz ist nichts im Vergleich zu dem, wie es sich anfühlt aufzuhören obwohl man weitermachen will.
         Dieses Lächeln war mein Licht und der Grund warum es mir niemals zu schade war mir Mühe zu geben. 
         Wenn ich einen schlechten Tag hatte, habe ich es mir immer angeschaut und mir ging es besser.
         Niemals könnte ich dich einfach so aufgeben.
