@@ -98,6 +98,9 @@ form {
         margin: 0 auto 20px; /* Abstand oben und unten */
     }
 
+    .child-img {
+        width: 85%;
+    }
     .img-end1, .img-end2 {
         border-radius: 15px;
     }
