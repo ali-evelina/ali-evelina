@@ -37,11 +37,11 @@ let bodyContents = {
 </div>`,
     page3: `        <div class="content">
     <div class="content-main">
-    <img src="page3.jpg">
+    <img class="child-img" src="page3.jpg">
     <span>
-        Dieses Lächeln war mein Licht und der Grund warum es mir niemals zu schade war mir Mühe zu geben. 
-        Wenn ich einen schlechten Tag hatte, habe ich es mir immer angeschaut und mir ging es besser.
-        Niemals könnte ich dich einfach so aufgeben.
+Dieses Lächeln war der Grund, wieso es mir nie zu schade war, mir Mühe zu geben. 
+Es ist genau das, was ich immer vor den Augen haben wollte.
+Wenn ich einen schlechten Tag hatte, habe ich es mir immer angesehen.
     </span>
     </div>
     <div class="buttons">
